@@ -4,7 +4,6 @@ public class Main{
 
 ArrayList<String>Subject = new ArrayList<>();
 
-
 Subject.add("Python");
 //Subject.add("Java");
 Subject.add("DBMS");
