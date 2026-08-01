@@ -21,7 +21,7 @@ class CreditCard extends Payment{
 
 class NetBanking extends Payment{
     void pay(){
-        System.out.println("payment done using NETBANKING");
+        System.out.println("Payment done using NETBANKING");
     }
 }
 
