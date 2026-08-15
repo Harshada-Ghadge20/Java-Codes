@@ -8,6 +8,7 @@ abstract class Mobile{
 }
 
 
+
 class Samsung extends Mobile{
     @Override
     void camera(){
